@@ -1,5 +1,7 @@
 World Happiness Score — Streamlit Demo
 
+Streamlit app link:https://worldhappinessscoreprediction-d9d8yrfdiheo6kreuthcqn.streamlit.app/
+
 This repository contains a small demo for predicting World Happiness Scores using several regression models and a Streamlit UI.
 
 Contents
